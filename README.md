@@ -14,7 +14,7 @@ Módulo 5:
 
 Módulo 6:
 
-Módulo 7:
+Módulo 7:Arquitectura monolítico 
 
 
 Módulo 8:
